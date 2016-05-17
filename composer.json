@@ -1,0 +1,13 @@
+{
+    "name": "rodrigore/ghscore",
+    "description": "este package es bacan, calcula el puntaje de github",
+    "authors": [
+        {
+            "name": "rodrigore",
+            "email": "rodrigo.campos@aphix.cl"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    }
+}
